@@ -1,3 +1,7 @@
-# goph419-f2024-lab00-stSP
-## what is this?
-this is my lab00 repository
+# GOPH 419 - Computational Methods for Geophysicists
+
+*Semester:* F2024
+*Instructor:* B. Karchewski
+*Author:* S. Pasloski
+
+This is an example repository setup for a simple Python package. 
