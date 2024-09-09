@@ -1,2 +1,3 @@
 # goph419-f2024-lab00-stSP
-lab00 repository
+##what is this?
+this is my lab00 repository
