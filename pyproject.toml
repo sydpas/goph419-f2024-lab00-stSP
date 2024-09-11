@@ -9,7 +9,7 @@ authors = [
 ]
 description="An example Python package"
 readme = "README.md"
-requires-python = "<=3.8"
+requires-python = ">=3.8"
 dependencies = [
 "numpy",
 "matplotlib",
