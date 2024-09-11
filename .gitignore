@@ -164,3 +164,5 @@ cython_debug/
 .venv_my_custom_venv_name/
 
 .idea/
+
+.python-version
