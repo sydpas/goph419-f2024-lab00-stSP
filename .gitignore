@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 .venv_my_custom_venv_name/
+
+.idea/
