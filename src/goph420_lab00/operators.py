@@ -28,3 +28,19 @@ def multiply(x, y):
     The (element-wise) product of x and y.
     """
     return x * y
+
+
+def subtract(x, y):
+    """Subtract two numbers or arrays.
+    Parameters
+    ----------
+    x : int or float or array_like
+    The first number to add.
+    y : int or float or array_like
+    The second number to add.
+    Returns
+    -------
+    int or float or array_like
+    The sum of x and y.
+    """
+    return x - y
