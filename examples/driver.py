@@ -11,7 +11,7 @@ def main():
     print(f' a: {a}, b: {b} ')
     print(f'Addition: {add(a, b)}')
     print(f'Multiply: {multiply(a, b)}')
-    print(f'Subtact: {subtract(a, b)}')
+    print(f'Subtract: {subtract(a, b)}')
 
 
 if __name__ == "__main__":
